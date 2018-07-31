@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzNetSample.JobScheduler.Core", "QuartzNetSample.JobScheduler.Core\QuartzNetSample.JobScheduler.Core.csproj", "{F163ACC4-2366-46FA-94B3-1858FB68F8E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzNetSample.JobScheduler.Server", "QuartzNetSample.JobScheduler.Server\QuartzNetSample.JobScheduler.Server.csproj", "{454914F0-824E-49FB-9C68-BA4DA9135A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F163ACC4-2366-46FA-94B3-1858FB68F8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F163ACC4-2366-46FA-94B3-1858FB68F8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F163ACC4-2366-46FA-94B3-1858FB68F8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F163ACC4-2366-46FA-94B3-1858FB68F8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454914F0-824E-49FB-9C68-BA4DA9135A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454914F0-824E-49FB-9C68-BA4DA9135A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454914F0-824E-49FB-9C68-BA4DA9135A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454914F0-824E-49FB-9C68-BA4DA9135A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29863D8A-B52E-4179-9CDC-EE3B6BC81937}
+	EndGlobalSection
+EndGlobal
